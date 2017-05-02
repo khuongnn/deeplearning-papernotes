@@ -1,5 +1,8 @@
 #### 2017-04
-
+- Fundamentals of Machine Learning for Neural Machine Translation
+- NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+- A Neural Attention Model for Sentence Summarization
+- Neural Responding Machine for Short-Text Conversation
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 
